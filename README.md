@@ -1,1 +1,8 @@
-# CRA with Code-splitting, Lazyload, MatUI and Router
+# create-react-app with Router, Code-splitting, MaterialUI, Prettier & AirBnB Eslint
+
+## How to use:
+
+```
+npm install
+npm start
+```
